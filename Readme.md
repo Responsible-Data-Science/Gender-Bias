@@ -4,14 +4,12 @@ This project investigates and mitigates gender bias in automated image labeling 
 
 ## Table of Contents
 
-- [Motivation](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#motivation)
-- [Project Overview](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#project-overview)
-- [Technologies Used](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#technologies-used)
-- [Methodology](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#methodology)
-- [Re-Ranking Algorithms](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#re-ranking-algorithms)
-- [Execution Steps](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#execution-steps)
-- [Future Work](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#future-work)
-- [Contributors](https://chatgpt.com/c/67a229b8-0d68-8008-ac9b-3a186010ff94#contributors)
+- [Motivation](#motivation)
+- [Project Overview](#project-overview)
+- [Technologies Used](#technologies-used)
+- [Methodology](#methodology)
+- [Re-Ranking Algorithms](#re-ranking-algorithms)
+- [Execution Steps](#execution-steps)
 
 ## Motivation
 
@@ -58,6 +56,8 @@ The project follows a structured approach:
 
 - A modified ResNet-10 neural network is used for gender classification.
 - The model analyzes search engine image results for gender representation.
+
+<a id="re-ranking-algorithms"></a>
 
 ### 4. **Re-Ranking Algorithms**
 
